@@ -1,5 +1,5 @@
 ### Hello!
-Hi, My name I'm jrmmendes (he/him). You can call me Mendes or Romildo, and I'm a backend developer! I'm currently using TypeScript, Node.js, GraphQL (Apollo Server) and deploying my applicationst to Microsoft Azure (Functions, App Insights), Digital Ocean and AWS (DynamoDB, S3). 
+Hi, My name I'm jrmmendes (he/him). You can call me Mendes or Romildo, and I'm a backend developer! I'm currently using TypeScript, Node.js, GraphQL (Apollo Server) and deploying my applications to Microsoft Azure (Functions, App Insights), Digital Ocean and AWS (DynamoDB, S3). 
 
 I love sharing skills, creating educational content and writing, then if you have something that I can help, get in touch with me!
 
