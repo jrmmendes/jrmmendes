@@ -1,5 +1,5 @@
 ### Hello!
-Hi, I'm jrmmendes (he/him). You can call me Mendes or Romildo! I'm currently using TypeScript, Node.js, GraphQL, NodeJS and deploying my applications to Microsoft Azure, Digital Ocean and AWS. 
+I'm @jrmmendes (he/him). You can call me Mendes or Romildo! I'm currently using TypeScript, Node.js, GraphQL, NodeJS and deploying my applications to Microsoft Azure, Digital Ocean and AWS. 
 
 I love sharing skills, creating educational content and writing, then if you have something that I can help, get in touch with me!
 
