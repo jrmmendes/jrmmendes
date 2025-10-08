@@ -8,7 +8,13 @@ I love sharing skills, creating educational content and writing, then if you hav
 - 👋 Use the "no hello" policy: [Please Don't Say Just Hello In Chat](https://www.nohello.com/);
 - 📅 If you want me for some synchronous activity (e.g. google meet), send-me an invitation (on Google Calendar, Teams, etc);
 
-### Stats for nerds
+### Blog Posts
+- [Testando lançamento de exceções com Jest](https://dev.to/dotmendes/testando-lancamento-de-excecoes-com-jest-4p8c)
+- [Test data builders em Typescript](https://dev.to/dotmendes/test-data-builder-3k22)
+- [Dynamodb em aplicações node](https://dev.to/dotmendes/dynamodb-em-aplicacoes-node-5588)
+- [Como criar uma CLI com React](https://dev.to/dotmendes/como-criar-uma-cli-com-react-4ol2)
 
+
+### Stats for nerds
 ![Junior's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jrmmendes&layout=compact)
 <!--![Junior's github stats](https://github-readme-stats.vercel.app/api?username=jrmmendes&count_private=true&show_icons=true)
