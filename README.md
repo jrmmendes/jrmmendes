@@ -1,14 +1,14 @@
-### Hello!
-I'm @jrmmendes (he/him). You can call me Mendes or Romildo! I'm currently using TypeScript, Node.js, Bun, GraphQL, Python and deploying my applications to Microsoft Azure, Digital Ocean and AWS. 
+Hello! I'm **@jrmmendes** (he/him). You can call me **Mendes** or **Romildo**! 
+I currently work with **TypeScript**, **Node.js**, **Bun**, **GraphQL**, and **Python**, deploying applications to **Microsoft Azure**, **Google Cloud**, and **AWS**.
+I love sharing skills, creating educational content, and writing. If there is anything I can help you with, please get in touch!
 
-I love sharing skills, creating educational content and writing, then if you have something I can help, get in touch with me!
-
-### Things to know about me (for coworkers)
-- 📟 I love async/text based communication. You can message me any time - although maybe I'll reply latter;
-- 👋 Use the "no hello" policy: [Please Don't Say Just Hello In Chat](https://www.nohello.com/);
-- 📅 If you want me for some synchronous activity (e.g. google meet), send-me an invitation (on Google Calendar, Teams, etc);
+### Things to know about me (for coworkers) 
+* 📟 **Async Communication:** I prefer text-based communication. You can message me anytime, though I may reply later. 
+* 👋 **"No Hello" Policy:** Please avoid saying just "Hello" in chat; feel free to jump straight into your question or topic! ([About](https://www.nohello.com/)).
+* 📅 **Meetings:** If you need me for a synchronous activity (e.g., Google Meet), please send me a calendar invitation (Google Calendar, Teams, etc.).
 
 ### Blog Posts
+- [Práticas para projetos javascript robustos](https://dev.to/dotmendes/praticas-para-projetos-javascript-robustos-2hge)
 - [Testando lançamento de exceções com Jest](https://dev.to/dotmendes/testando-lancamento-de-excecoes-com-jest-4p8c)
 - [Test data builders em Typescript](https://dev.to/dotmendes/test-data-builder-3k22)
 - [Dynamodb em aplicações node](https://dev.to/dotmendes/dynamodb-em-aplicacoes-node-5588)
