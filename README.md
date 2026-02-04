@@ -14,7 +14,5 @@ I love sharing skills, creating educational content, and writing. If there is an
 - [Dynamodb em aplicações node](https://dev.to/dotmendes/dynamodb-em-aplicacoes-node-5588)
 - [Como criar uma CLI com React](https://dev.to/dotmendes/como-criar-uma-cli-com-react-4ol2)
 
-
-### Stats for nerds
-![Junior's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jrmmendes&layout=compact)
-<!--![Junior's github stats](https://github-readme-stats.vercel.app/api?username=jrmmendes&count_private=true&show_icons=true)
+### Vídeos
+- [Introdução ao GraphQL](https://www.youtube.com/watch?v=U1bt4Bm6zu4)
