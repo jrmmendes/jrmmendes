@@ -1,16 +1,9 @@
 Hello! I'm **@jrmmendes** (he/him). You can call me **Mendes** or **Romildo**! 
-I currently work with **TypeScript**, **Node.js**, **Bun**, **GraphQL**, and **Python**, deploying applications to **Microsoft Azure**, **Google Cloud**, and **AWS**.
-I love sharing skills, creating educational content, and writing. If there is anything I can help you with, please get in touch!
+Currently working on [Grupo Boticario](https://www.grupoboticario.com.br/). Read [my blog](https://mendes.software/blog).
 
-### Things to know about me (for coworkers) 
-* 📟 **Async Communication:** I prefer text-based communication. You can message me anytime, though I may reply later. 
-* 👋 **"No Hello" Policy:** Please avoid saying just "Hello" in chat; feel free to jump straight into your question or topic! ([About](https://www.nohello.com/)).
-* 📅 **Meetings:** If you need me for a synchronous activity (e.g., Google Meet), please send me a calendar invitation (Google Calendar, Teams, etc.).
+<table><tr><td valign="top" width="33%">
 
-<table><tr>
 <!-- Blog posts -->
-<td valign="top" width="33%">
-  
 ### Blog Posts
 [Práticas para projetos javascript robustos](https://dev.to/dotmendes/praticas-para-projetos-javascript-robustos-2hge)
   
@@ -38,7 +31,12 @@ I love sharing skills, creating educational content, and writing. If there is an
   
 ### Fragments
 (em breve)
-</td>
-<!-- ./Fragments -->
 
-</tr></table>
+<!-- ./Fragments -->
+</td></tr></table>
+
+
+### Things to know about me (for coworkers) 
+* 📟 **Async Communication:** I prefer text-based communication. You can message me anytime, though I may reply later. 
+* 👋 **"No Hello" Policy:** Please avoid saying just "Hello" in chat; feel free to jump straight into your question or topic! ([About](https://www.nohello.com/)).
+* 📅 **Meetings:** If you need me for a synchronous activity (e.g., Google Meet), please send me a calendar invitation (Google Calendar, Teams, etc.).
