@@ -1,6 +1,8 @@
 Hello! I'm **@jrmmendes** (he/him). You can call me **Mendes** or **Romildo**! 
 Currently working on [Grupo Boticario](https://www.grupoboticario.com.br/). Read [my blog](https://mendes.software/blog).
 
+<div>
+
 <table><tr><td valign="top" width="33%">
 
 <!-- Blog posts -->
@@ -14,6 +16,7 @@ Currently working on [Grupo Boticario](https://www.grupoboticario.com.br/). Read
 [Dynamodb em aplicações node](https://dev.to/dotmendes/dynamodb-em-aplicacoes-node-5588) 
 
 [Como criar uma CLI com React](https://dev.to/dotmendes/como-criar-uma-cli-com-react-4ol2)
+
 <!-- ./Blog posts -->
 </td>
 
@@ -30,13 +33,13 @@ Currently working on [Grupo Boticario](https://www.grupoboticario.com.br/). Read
 <td valign="top" width="33%">
   
 ### Fragments
-(em breve)
+
 
 <!-- ./Fragments -->
 </td></tr></table>
+</div>
 
-
-### Things to know about me (for coworkers) 
-* 📟 **Async Communication:** I prefer text-based communication. You can message me anytime, though I may reply later. 
-* 👋 **"No Hello" Policy:** Please avoid saying just "Hello" in chat; feel free to jump straight into your question or topic! ([About](https://www.nohello.com/)).
-* 📅 **Meetings:** If you need me for a synchronous activity (e.g., Google Meet), please send me a calendar invitation (Google Calendar, Teams, etc.).
+Working with me:
+* 📟 **Async Communication:** I prefer text-based communication. You can message me anytime, though I may reply later;
+* 👋 **"No Hello" Policy:** Please avoid saying just "Hello" in chat; feel free to jump straight into your question or topic! ([About](https://www.nohello.com/));
+* 📅 **Meetings:** If you need me for a synchronous activity, please send me a calendar invitation with a good description and some context.
