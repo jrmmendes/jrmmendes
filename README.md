@@ -29,13 +29,15 @@ Currently working on [Grupo Boticario](https://www.grupoboticario.com.br/). Read
 </td>
 <!-- ./Vídeos -->
 
-<!-- Fragments -->
+<!-- Dotfiles -->
 <td valign="top" width="33%">
   
-### Fragments
+### Dotfiles
+[Neovim](https://github.com/jrmmendes/nvim-v2)
 
+[Opencode](https://github.com/jrmmendes/opencode)
 
-<!-- ./Fragments -->
+<!-- ./Dotfiles -->
 </td></tr></table>
 </div>
 
