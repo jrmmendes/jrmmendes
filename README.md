@@ -1,5 +1,5 @@
 Hello! I'm **@jrmmendes** (he/him). You can call me **Mendes** or **Romildo**! 
-Currently working on [Grupo Boticario](https://www.grupoboticario.com.br/). Read [my blog](https://mendes.software/blog).
+Currently working on [Grupo Boticario](https://www.grupoboticario.com.br/).
 
 <div>
 
