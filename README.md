@@ -37,6 +37,8 @@ Currently working on [Grupo Boticario](https://www.grupoboticario.com.br/). Read
 
 [Opencode](https://github.com/jrmmendes/opencode)
 
+[Tmux](https://github.com/jrmmendes/tmux)
+
 <!-- ./Dotfiles -->
 </td></tr></table>
 </div>
